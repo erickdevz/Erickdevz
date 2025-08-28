@@ -1,4 +1,4 @@
-## Oiii eu sou a Erick Xavier 
+## Oiii eu sou o Erick Xavier 
 
 ### Enthusiast:🫶
 ![Citrix](https://img.shields.io/badge/-Citrix-05122A?style=flat&logo=hackaday&color=black)&nbsp;
