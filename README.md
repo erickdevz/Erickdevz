@@ -1,12 +1,11 @@
 ## Oiii eu sou o Erick Xavier 
 
 ### Enthusiast:🫶
-![Citrix](https://img.shields.io/badge/-Citrix-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![Nutanix](https://img.shields.io/badge/Nutanix-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
-![Developer Fullstack](https://img.shields.io/badge/DeveloperFullstack-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
-![Akamai](https://img.shields.io/badge/Akamai-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
-![Infrastructure](https://img.shields.io/badge/-Infra-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-
+![Java](https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DBMS-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![API Rest](https://img.shields.io/badge/API-Rest-yellow?style=for-the-badge&logo=fastapi&logoColor=black)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Cloud-black?style=for-the-badge&logo=databricks&logoColor=red)
+![Technology Innovation](https://img.shields.io/badge/Tech-Innovation-purple?style=for-the-badge&logo=fireship&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaKind4/AnaKind4/output/github-contribution-grid-snake-dark.svg">
