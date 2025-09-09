@@ -1,12 +1,17 @@
-## Oiii eu sou o Erick Xavier 
+## 👋 Olá, eu sou o Erick Xavier  
+
+Estou no caminho para me tornar **Desenvolvedor Backend em Java**, sempre buscando evoluir, aprender novas tecnologias e compartilhar conhecimento.  
+Gosto de criar soluções que **facilitam o dia a dia**, desde pequenos sistemas até APIs REST, e estou aberto a ajudar quem precisar de apoio em tecnologia ou automação. 🚀  
+
+💡 Meu objetivo é crescer como profissional, construir projetos que gerem impacto real e colaborar em ideias que tragam inovação.  
 
 ### Enthusiast:
-![Backend Java](https://img.shields.io/badge/Backend%20Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![API Rest](https://img.shields.io/badge/API%20Rest-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-8B4513?style=for-the-badge&logo=databricks&logoColor=white)
-![Cloud & Innovation](https://img.shields.io/badge/Cloud%20%26%20Innovation-800080?style=for-the-badge&logo=icloud&logoColor=white)
+![Backend Java](https://img.shields.io/badge/Backend%20Java-121212?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=336791)
+![DBMS](https://img.shields.io/badge/DBMS-121212?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![API Rest](https://img.shields.io/badge/API%20Rest-121212?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-121212?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Cloud & Innovation](https://img.shields.io/badge/Cloud%20%26%20Innovation-121212?style=for-the-badge&logo=icloud&logoColor=1E90FF)
 
 
 <picture>
