@@ -1,11 +1,13 @@
 ## Oiii eu sou o Erick Xavier 
 
-### Enthusiast:🫶
-![Java](https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DBMS-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![API Rest](https://img.shields.io/badge/API-Rest-yellow?style=for-the-badge&logo=fastapi&logoColor=black)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-Cloud-black?style=for-the-badge&logo=databricks&logoColor=red)
-![Technology Innovation](https://img.shields.io/badge/Tech-Innovation-purple?style=for-the-badge&logo=fireship&logoColor=white)
+### Enthusiast:
+![Backend Java](https://img.shields.io/badge/Backend%20Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![API Rest](https://img.shields.io/badge/API%20Rest-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-8B4513?style=for-the-badge&logo=databricks&logoColor=white)
+![Cloud & Innovation](https://img.shields.io/badge/Cloud%20%26%20Innovation-800080?style=for-the-badge&logo=icloud&logoColor=white)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaKind4/AnaKind4/output/github-contribution-grid-snake-dark.svg">
